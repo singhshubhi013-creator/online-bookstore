@@ -1,0 +1,84 @@
+.books h1{
+    text-align: center;
+    color: #3B82F6;
+    font-size: 50px
+
+}
+.books-card{
+    object-fit: contain;
+    position: relative;
+    top: 40px;
+    left: 80px;
+
+}
+.books-card h2{
+    position: relative;
+    right: 30px;
+    color:#123B7A;
+    font-size: 25px;
+    
+}
+
+.books-card2{
+    object-fit: contain;
+    position: relative;
+    top: -325px;
+    left: 500px;
+
+}
+.books-card2 h2{
+    position: relative;
+    right: 30px;
+    color:#123B7A;
+    font-size: 25px;
+}   
+
+.books-card3{
+    object-fit: contain;
+    position: relative;
+    top: -360px;
+    left: 450px;
+
+}
+.books-card3 h2{
+    position: relative;
+    right: 30px;
+    color:#123B7A;
+    font-size: 25px;
+} 
+
+.books-card4{
+    object-fit: contain;
+    position: relative;
+    top: -300px;
+    left: -420px;
+    
+
+}
+.books-card4 h2{
+    position: relative;
+    right: 30px;
+    color:#123B7A;
+    font-size: 25px;
+} 
+
+.books-card5{
+    object-fit: contain;
+    position: relative;
+    top: -665px;
+    left: -20px;
+    
+
+}
+.books-card5 h2{
+    position: relative;
+    right: -10px;
+    color:#123B7A;
+    font-size: 25px;
+} 
+.books-card5 h3{
+    position: relative;
+    right: -15px;
+}
+
+
